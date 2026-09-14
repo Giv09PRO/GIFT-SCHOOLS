@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'Financial Statement' => 'Taarifa ya Kifedha',
+    'for :name' => 'kwa :name',
+    'Back to List' => 'Rudi kwenye Orodha',
+    'Generate PDF' => 'Tengeneza PDF',
+    'View Statement for Year:' => 'Tazama Taarifa kwa Mwaka:',
+    'Statement Period:' => 'Kipindi cha Taarifa:',
+    'Opening Balance:' => 'Salio la Mwanzo:',
+    '(Carried forward from previous periods)' => '(Limeletwa kutoka vipindi vilivyopita)',
+    'Closing Balance for Period:' => 'Salio la Mwisho kwa Kipindi:',
+    '(As of end of :year)' => '(Kufikia mwisho wa :year)',
+    'Transaction Details' => 'Maelezo ya Muamala',
+    'No transactions found for this period.' => 'Hakuna miamala iliyopatikana kwa kipindi hiki.',
+    'Summary for :year' => 'Muhtasari wa :year',
+    'Total Fees Charged' => 'Jumla ya Ada Zilizotozwa',
+    '(Net fees this period)' => '(Ada halisi kwa kipindi hiki)',
+    'Total Payments Received' => 'Jumla ya Malipo Yaliyopokelewa',
+    '(During this period)' => '(Wakati wa kipindi hiki)',
+    'Payments Applied' => 'Malipo Yaliyotumika',
+    '(To this period\'s fees)' => '(Kwa ada za kipindi hiki)',
+    'Closing Balance' => 'Salio la Mwisho',
+    'End of :year' => 'Mwisho wa :year',
+    'If you have any questions concerning this statement, please contact the school office at :phone.' => 'Ikiwa una maswali yoyote kuhusu taarifa hii, tafadhali wasiliana na ofisi ya shule kupitia namba :phone.',
+    'Thank you for your prompt attention to your account.' => 'Asante kwa kuzingatia akaunti yako kwa haraka.',
+    'Financial Statement: :name (:year)' => 'Taarifa ya Kifedha: :name (:year)',
+];
